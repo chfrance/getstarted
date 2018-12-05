@@ -1,0 +1,18 @@
+{
+    "componentConfigs": [
+        {
+            "id": "<Configure through VS Code>",
+            "folder": "",
+            "name": "",
+            "dependencies": [],
+            "type": "IoTHub",
+            "componentInfo": {
+                "values": {
+                    "iotHubConnectionString": "<Configure through VS Code>",
+                    "eventHubConnectionString": "<Configure through VS Code>",
+                    "eventHubConnectionPath": "<Configure through VS Code>"
+                }
+            }
+        }
+    ]
+}

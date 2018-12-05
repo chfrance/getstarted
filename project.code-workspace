@@ -1,0 +1,15 @@
+{
+    "folders": [
+        {
+            "path": "Device"
+        }
+    ],
+    "settings": {
+        "IoTWorkbench.BoardId": "devkit",
+        "IoTWorkbench.DevicePath": "Device",
+        "IoTWorkbench.iothubConnectionString": "HostName=HFLabHub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=YJb76pQ0fUqo529NzxcnXHWkK6yZyNxgW+g0CLSOPIM=",
+        "IoTWorkbench.eventHubConnectionString": "Endpoint=sb://ihsuprodbyres118dednamespace.servicebus.windows.net/;SharedAccessKeyName=iothubowner;SharedAccessKey=YJb76pQ0fUqo529NzxcnXHWkK6yZyNxgW+g0CLSOPIM=",
+        "IoTWorkbench.eventHubConnectionPath": "iothub-ehub-hflabhub-989225-15b128302e",
+        "IoTWorkbench.iothubDeviceConnectionString": "HostName=HFLabHub.azure-devices.net;DeviceId=HF-MXCHIP-AZ3166-1;SharedAccessKey=JpW5rRcqXsxU90CFNJMd5ms86H/3k4KEfe3TQfy63Ao="
+    }
+}

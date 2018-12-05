@@ -1,0 +1,12 @@
+# Build folder
+.build/
+
+# Ignore azureconfig.json which holds Azure provisioning connection strings
+# Note: Need to run through the Azure provisioning steps in
+# https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit-get-started.md
+# to recreate this file
+azureconfig.json
+
+# VS Code files
+c_cpp_properties.json
+
